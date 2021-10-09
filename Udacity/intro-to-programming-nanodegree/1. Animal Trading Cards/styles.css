@@ -1,0 +1,40 @@
+/* add your CSS here */
+body{
+	font: gray;
+}
+ul{
+	padding: 0;
+}
+li{
+	list-style: none;
+	margin: 0;
+	padding-right: 0;
+}
+
+img{
+	height:100%;
+	width:100%;
+}
+
+div{
+	padding:1%;
+}
+.borders{
+	border: 3px solid #FF9999;
+	border-radius: 23px;
+	box-shadow: 2px 5px #FFEAE6;
+}
+
+.center{
+	text-align: left;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.if{
+	font-style: italic;
+}
+
+.lab{
+	font-weight: bold;
+}
