@@ -9,6 +9,7 @@ I made this repository to organize and categorize the courses and their respecti
 
 **Title**|**Certification Link**|**Date Finished**|**Estimated Time**|**Provider**|**Taught by**|**Projects**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+Advanced Data Analysis Nanodegree|[confirm.udacity.com/RPF3SFJZ](https://confirm.udacity.com/RPF3SFJZ)|11/27/2021|4 months|Udacity|Udacity|[link](Udacity/advanced-data-analysis-nanodegree)
 AI Programming with Python Nanodegree|[confirm.udacity.com/DL47ZLN9](https://confirm.udacity.com/DL47ZLN9)|01/14/2021|3 months|Udacity|Udacity|[link](Udacity/ai-programming-python-nanodegree/)
 Applied Data Science by IBM on Coursera|[coursera.org/.../SHSK4XHKZQXR/](https://www.coursera.org/account/accomplishments/specialization/SHSK4XHKZQXR)|07/12/2020|22 weeks|Coursera|IBM|[link](Coursera/Applied%20Data%20Science%20Specialization/)
 Data Structures & Algorithms Nanodegree|[graduation-api.udacity.com/.../AHDRJH/](https://graduation-api.udacity.com/api/certificate/AHDRJH/download)|05/16/2020|4 months|Udacity|Udacity|[link](Udacity/data-structures-and-algorithms-nanodegree/)
